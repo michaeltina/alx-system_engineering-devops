@@ -1,2 +1,2 @@
 #!/bin/bash
-soet | unique -u 
+soet | uniq -u 
